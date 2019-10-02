@@ -21,4 +21,13 @@ test({
     }
 });
 
+test({
+    name: "Random Cat",
+    fn(): void {
+
+        let randomCat: string = catYou();
+        assertEquals(typeof randomCat, "string");
+    }
+});
+
 runTests();
