@@ -17,6 +17,3 @@ export const catYou = (name?: string): string => {
         return Cats[Math.floor(Math.random() * Cats.length)].body.join("\n");
     }
 };
-
-
-console.log(catYou(''));
