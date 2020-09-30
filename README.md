@@ -1,5 +1,5 @@
 # CatYou - Deno
-Every Framework Needs a Cat API
+Every Runtime Needs a Cat API
 
 [![Build Status](https://travis-ci.org/SuperC03/CatYou-Deno.svg?branch=master)](https://travis-ci.org/SuperC03/CatYou-Deno)
 
