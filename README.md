@@ -3,8 +3,12 @@ Every Runtime Needs a Cat API
 
 [![Build Status](https://travis-ci.org/SuperC03/CatYou-Deno.svg?branch=master)](https://travis-ci.org/SuperC03/CatYou-Deno)
 
+## Install
+Download from [deno.land](https://deno.land/x/cat_you).
+
 ## Usage
 Quite similarily to the [npm package](https://www.npmjs.com/package/cat-me), Cat-You generates cats either by random, or by passing in a particular cat name as a parameter.
+
 
 ```javascript
 import { catYou } from 'https://deno.land/x/cat_you/mod.ts';
